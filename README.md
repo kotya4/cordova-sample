@@ -1,4 +1,31 @@
-Summary:
+# Graphics
+
+## To see also:
+
+https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/filter
+
+## To know:
+
+From sources:
+https://stackoverflow.com/a/11915204
+
+Using single canvas instead of multiple (i.e. for updating certain layer of screen) is prefferable.
+
+## Resourses:
+
+All the (third-party) resources are contained in `www/resources/`, each package exists with file `source.txt` containing link to the page where package was stolen. All packages are distributed as-is, might be shrinked to reduce amount of unused files but all the meta information such as readme files are stay untouched.
+
+# Setting up Cordova
+
+## To see also:
+
+https://cordova.apache.org/docs/en/11.x/core/features/splashscreen/index.html
+
+https://cordova.apache.org/docs/en/latest/config_ref/images.html
+
+https://cordova.apache.org/plugins/
+
+## Summary:
 
 Install npm: `sudo apt install npm`. Then cordova with `npm install -g cordova` with global modificator, install Android Studio, this will automaticly install gradle and jdk. If not, install yourself. For cordova-android@10.X.X (target 30-22) do not use jdk higher than 15, and 8 for cordova-android@8.X.X (target 28-19). Set up environment variables as descibed in offitial documentation. Ready to go.
 

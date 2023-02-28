@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.sluchaynayakotya.gangway" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name short="Gway">Gangway</name>
-    <description>Simple tabletop game</description>
+    <name short="Gangway">Gangway</name>
+    <description>Simple turn-based game</description>
     <author email="sluchaynayakotya@gmail.com" href="https://github.com/sluchaynayakotya"></author>
     <content src="index.html" />
+    <icon src="gangway_logo_2.png" />
+    <preference name="permissions" value="none" />
     <preference name="DisallowOverscroll" value="true"/>
     <preference name="FullScreen" value="false"/>
     <preference name="KeepRunning" value="true"/>

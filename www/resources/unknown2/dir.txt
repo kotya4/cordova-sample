@@ -1,0 +1,12 @@
+dir.txt
+Kubok.png
+Mech.png
+Monetka.png
+Rupy.png
+Ryukzak.png
+Serdtse.png
+Start.png
+Sunduk.png
+Zelye.png
+Zolotoy_Rupiy.png
+Zvezda.png
